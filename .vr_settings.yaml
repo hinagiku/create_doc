@@ -1,0 +1,21 @@
+--- !ruby/object:VR_ENV
+vr_yaml_file: "/home/bsfx/visualruby/create_doc/.vr_settings.yaml"
+width: 1535
+height: 848
+panel_pos: 360
+notebook_panel_position: 494
+run_command_line: ruby create_doc
+open_files:
+- "/home/bsfx/visualruby/create_doc/bin/SavableSettings.rb"
+- "/home/bsfx/visualruby/create_doc/bin/MainApp.rb"
+- "/home/bsfx/visualruby/create_doc/create_doc.gemspec"
+- "/home/bsfx/visualruby/create_doc/create_doc"
+open_folders:
+- "/home/bsfx/visualruby/create_doc"
+- "/home/bsfx/visualruby/create_doc/bin"
+- "/home/bsfx/visualruby/create_doc/bin/glade"
+current_file: "/home/bsfx/visualruby/create_doc/create_doc.gemspec"
+current_line: 11
+rdoc_command_line: rdoc -x README
+builder: !ruby/object:Gtk::Builder {}
+top_level_window: false

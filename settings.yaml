@@ -1,0 +1,11 @@
+--- !ruby/object:SavableSettings
+height: 415
+width: 609
+title: 南京市人民政府国有资产监督管理委员会
+text: 宁国资委产〔2015〕77号
+vr_yaml_file: "/home/bsfx/visualruby/create_doc/settings.yaml"
+builder: !ruby/object:Gtk::Builder {}
+top_level_window: false
+filename: 我是xxx
+smalltitle: 我是xxx我是xxx我是xxx
+foot: 我是xxx我是xxx我是xxx
